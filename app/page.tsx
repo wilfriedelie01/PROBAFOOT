@@ -15,7 +15,7 @@ const sliderConfig: SliderConfig[] = [
   { key: 'starPlayers', label: 'Titulaires', description: 'Performances individuelles' },
   { key: 'headToHead', label: 'Face à face', description: 'Résultats entre adversaires' },
   { key: 'immediatePressure', label: 'Enjeu immédiat', description: 'Urgence de cette rencontre' },
-  { key: 'seasonGoal', label: 'Objectif de saison', description: 'Motive la formation' },
+  { key: 'seasonGoal', label: 'Objectif saison', description: 'Motive la formation' },
   { key: 'attack', label: 'Attaque', description: 'Capacité offensive' },
   { key: 'defense', label: 'Défense', description: 'Solidité défensive' },
 ];
